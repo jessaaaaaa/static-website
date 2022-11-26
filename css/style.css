@@ -5,3 +5,12 @@ h1, h2{
 p {
     color: pink;
 }
+
+#my_avatar {
+    width: 800px;
+    border-radius: 50%;
+}
+
+#content {
+    text-align: center;
+}
